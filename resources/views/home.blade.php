@@ -757,35 +757,12 @@ color:white;">
         document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
     }
 </script>
+<script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.4/mobile-detect.min.js"></script>
 <script>
- if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
-    {
-        alert('Version mobile uniquement !');		
-		window.location = "https://google.com";
+  var md = new MobileDetect(window.navigator.userAgent);
+    if (!md.mobile()) {
+        location.href = 'https://google.com';
     }
-    else if(navigator.userAgent.indexOf("Chrome") != -1 )
-    {
-        alert('Version mobile uniquement !');
-		window.location = "https://google.com";
-    }
-    else if(navigator.userAgent.indexOf("Safari") != -1)
-    {
-        alert('Version mobile uniquement !');
-		
-		window.location = "https://google.com";
-    }
-    else if(navigator.userAgent.indexOf("Firefox") != -1 ) 
-    {
-        alert('Version mobile uniquement !');
-		
-		window.location = "https://google.com";
-    }
-    else if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
-    {
-       alert('Version mobile uniquement !');
-		
-		window.location = "https://google.com";
-    }  
 </script>
 <script type="text/javascript">
     if (typeof revslider_showDoubleJqueryError === "undefined") {
