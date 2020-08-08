@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Ibeet</title>
+    <title>Ibet</title>
 
     <link rel='stylesheet' href='plugins/goodlayers-core/plugins/fontawesome/font-awesome.css' type='text/css' media='all'>
     <link rel='stylesheet' href='plugins/goodlayers-core/plugins/elegant/elegant-font.css' type='text/css' media='all'>
@@ -43,8 +43,8 @@ font-family: 'Open sans';
 text-transform: uppercase;
 font-weight: 800;
 color:white;">
-                    <li style="padding-right: 20px;"><a href="{{route('shop')}}" >BOUTIQUES</a></li>
-                    <li><a href="{{route('pronostiques')}}">Pronostiques</a></li>
+                    <li style="padding-right: 20px;"><a href="{{route('shop')}}" style="color:white;">BOUTIQUES</a></li>
+                    <li><a href="{{route('pronostiques')}}" style="color:white;">Pronostiques</a></li>
                 </ul>
             </div>
         </div>

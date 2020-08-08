@@ -499,64 +499,28 @@
                 <div class="bigslam-footer-container bigslam-container clearfix">
                     <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">
                         <div id="text-11" class="widget widget_text bigslam-widget">
-                            <h3 class="bigslam-widget-title">Contact Info</h3>
+                            <h3 class="bigslam-widget-title">Informations</h3>
                             <div class="textwidget">
-                                <p>We’re a professional football club in Milan, Italy, founded in 1899.</p>
-                                <p>The club has spent its entire history, with
-                                    <br> the exception of the 1980–81 and
-                                    <br>1982–83 seasons.</p>
+                                <p>Ibet est un service professionnel d'analyse sportif.</p>
+                                <p>Avec un tôt de réussite unique de 90%+ !
                             </div>
                         </div>
                     </div>
                     <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">
                         <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget bigslam-widget">
-                            <h3 class="bigslam-widget-title">Resources</h3>
+                            <h3 class="bigslam-widget-title">Liens</h3>
                             <div class="menu-resources-container">
                                 <ul id="menu-resources" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
-                                    <li class="menu-item"><a href="#">Marketplace</a></li>
-                                    <li class="menu-item"><a href="#">League Table</a></li>
-                                    <li class="menu-item"><a href="#">Media Kit</a></li>
-                                    <li class="menu-item"><a href="#">Schedule</a></li>
-                                    <li class="menu-item"><a href="#">Shop</a></li>
-                                    <li class="menu-item"><a href="#">Players</a></li>
-                                    <li class="menu-item"><a href="#">Blog</a></li>
-                                    <li class="menu-item"><a href="#">Forum</a></li>
+                                    <li class="menu-item"><a href="#">Instagram</a></li>
                                 </ul>
                             </div>
-                        </div>
-                    </div>
-                    <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">
-                        <div id="text-10" class="widget widget_text bigslam-widget">
-                            <h3 class="bigslam-widget-title">Newsletter</h3>
-                            <div class="textwidget">
-                                <p>We&#8217;ll send updates straight to your inbox. Let&#8217;s stay connected! <span class="gdlr-core-space-shortcode" style="margin-top: -40px ;"></span></p>
-                            </div>
-                        </div>
-                        <div id="gdlr-core-newsletter-widget-2" class="widget widget_gdlr-core-newsletter-widget bigslam-widget">
-                            <div class="gdlr-core-with-fa-send-o-button tnp tnp-subscription gdlr-core-style-2">
-                                <form method="post" action="#" onsubmit="return newsletter_check(this)">
-
-                                    <input type="hidden" name="nlang" value="">
-                                    <div class="tnp-field tnp-field-email">
-                                        <input class="tnp-email" type="email" name="ne" placeholder="Enter Your Email Address" required="">
-                                    </div>
-                                    <div class="tnp-field tnp-field-button" style="color: #fff;">
-                                        <input class="tnp-submit" type="submit" value="Subscribe" style="background-color:#0f9d58;">
-                                    </div>
-
-                                </form>
-                            </div>
-                        </div>
-                        <div id="text-1" class="widget widget_text bigslam-widget">
-                            <div class="textwidget"><span class="gdlr-core-space-shortcode" style="margin-top: -30px ;"></span>
-                                <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter" style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook" style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram" style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-pinterest-p" style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin" style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="bigslam-copyright-wrapper">
                 <div class="bigslam-copyright-container bigslam-container">
-                    <div class="bigslam-copyright-text bigslam-item-pdlr">Copyright 2020 GoodLayers, All Right Reserved</div>
+                    <div class="bigslam-copyright-text bigslam-item-pdlr">Copyright 2020 Ibet, All Right Reserved | Created by <a href="https://github.com/DoctorWhoFR">Maxime Benamara</a></div>
                 </div>
             </div>
         </footer>

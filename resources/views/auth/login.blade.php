@@ -124,8 +124,8 @@
                         @endif
                         <form method="post" action="{{route('login')}}">
                             @csrf
-                            <input type="email" placeholder="{{__('Email')}}" name="email">
-                            <input type="password" placeholder="{{__('Mots de passe')}}" name="password">
+                            <input type="email" placeholder="{{__('Email')}}" name="email" style="color:black;">
+                            <input type="password" placeholder="{{__('Mots de passe')}}" name="password" style="color:black;">
                             <button class="button button-green"><i class="fa fa-send"></i>{{__("Connexion")}}</button>
                             <a class="button button-green" href="{{route("register")}}"><i class="fa fa-send"></i>{{__("S'enregistrer")}}</a>
                         </form>

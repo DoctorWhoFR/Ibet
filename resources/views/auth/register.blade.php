@@ -104,10 +104,10 @@
                         <h4>{{__("Connection")}}</h4>
                         <form method="post" action="{{route('register')}}">
                             @csrf
-                            <input type="text" placeholder="{{__('Pseudo')}}" name="name" id="name">
-                            <input type="email" placeholder="{{__('Email')}}" name="email" id="email">
-                            <input type="password" placeholder="{{__('Mots de passe')}}" name="password" id="password">
-                            <input type="password" placeholder="{{__('Confirmation du mots de passe')}}" name="password_confirmation" id="password_confirmation">
+                            <input type="text" placeholder="{{__('Pseudo')}}" name="name" id="name" style="color:black;">
+                            <input type="email" placeholder="{{__('Email')}}" name="email" id="email" style="color:black;">
+                            <input type="password" placeholder="{{__('Mots de passe')}}" name="password" id="password" style="color:black;">
+                            <input type="password" placeholder="{{__('Confirmation du mots de passe')}}" name="password_confirmation" id="password_confirmation" style="color:black;">
                             <button class="button button-green"><i class="fa fa-send"></i>{{__("S'enregistrer")}}</button>
                             <a class="button button-green" href="{{route('login')}}"><i class="fa fa-send"></i>{{__("Connexion")}}</a>
 
