@@ -377,7 +377,7 @@ color:white;">
                                                                                         <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}">
                                                                                         <span class="gdlr-core-content">Confiance: {{$tennis->confiance}}%</span></a>
                                                                                     @else
-                                                                                        <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" >
+                                                                                        <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}" >
                                                                                     <span class="gdlr-core-content">Confiance: {{$tennis->confiance}}%</span></a>
                                                                                     @endif
                                                                                     <span class="gdlr-core-portfolio-badge"><a
