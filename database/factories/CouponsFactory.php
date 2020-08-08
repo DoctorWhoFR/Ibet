@@ -20,6 +20,6 @@ use Illuminate\Support\Str;
 $factory->define(Coupons::class, function (Faker $faker) {
     return [
         'code' => "IBETOPEN",
-        'reduction' => "100",
+        'reduction' => "99",
     ];
 });
