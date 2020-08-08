@@ -361,10 +361,10 @@ color:white;">
                                                                     <div class="bigslam-sp-event-featured-title bigslam-title-font"><span class="bigslam-sp-team-logo"><img width="110" height="119" src="upload/flag-4.png" class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image" alt="" ></span><span class="bigslam-sp-team-name">{{$bascket->equipe_defence}}</span><span class="bigslam-sp-event-result"><a href="#">VS</a></span><span class="bigslam-sp-team-name" style="font-size: 10px;">{{$bascket->equipe_attack}}</span><span class="bigslam-sp-team-logo"><img width="90" height="89" src="upload/flag-15.png" class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image" alt="" ></span></div>
                                                                     <div class="bigslam-sp-event-featured-info"><span class="bigslam-sp-event-date">{{$bascket->date_debut}}</span><span class="bigslam-sp-event-venue"><a href="#" rel="tag">  @if(Auth::user() != null && Auth::user()->football == 1 && Auth::user()->basket == 1 && Auth::user()->tennis == 1)
                                                                                     <a class=" gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}">
-                                                                                        <span class="gdlr-core-content"><a  href="{{route('pronostiques')}}">Confiance: {{$bascket->confiance}}%</a></span></a>
+                                                                                        <span class="gdlr-core-content">Confiance: {{$bascket->confiance}}%</span></a>
                                                                                 @else
                                                                                     <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" >
-                                                                                    <span class="gdlr-core-content"><a  href="{{route('pronostiques')}}">Confiance: {{$bascket->confiance}}%</a></span></a>
+                                                                                    <span class="gdlr-core-content">Confiance: {{$bascket->confiance}}%</span></a>
                                                                                 @endif
                                                                                 <span class="gdlr-core-portfolio-badge">BOUTIQUE !</span></a></span><a class="bigslam-sp-event-link" href="#">Preview<i class="fa fa-long-arrow-right"></i></a></div>
                                                                 </div>
@@ -375,10 +375,10 @@ color:white;">
                                                                     <div class="bigslam-sp-event-featured-info"><span class="bigslam-sp-event-date">{{$tennis->date_debut}}</span><span class="bigslam-sp-event-venue"><a href="#" rel="tag">
                                                                                 @if(Auth::user() != null && Auth::user()->football == 1 && Auth::user()->basket == 1 && Auth::user()->tennis == 1)
                                                                                         <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}">
-                                                                                        <span class="gdlr-core-content"><a  href="{{route('pronostiques')}}">Confiance: {{$tennis->confiance}}%</a></span></a>
+                                                                                        <span class="gdlr-core-content">Confiance: {{$tennis->confiance}}%</span></a>
                                                                                     @else
                                                                                         <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}" >
-                                                                                    <span class="gdlr-core-content"><a  href="{{route('pronostiques')}}">Confiance: {{$tennis->confiance}}%</a></span></a>
+                                                                                    <span class="gdlr-core-content">Confiance: {{$tennis->confiance}}%</span></a>
                                                                                     @endif
                                                                                     <span class="gdlr-core-portfolio-badge"><a
                                                                                         href="">SHOPS</a></span></a></span><a class="bigslam-sp-event-link" href="#">Preview<i class="fa fa-long-arrow-right"></i></a></div>
