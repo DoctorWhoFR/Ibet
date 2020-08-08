@@ -468,11 +468,10 @@ color:white;">
                     </div>
                     <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">
                         <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget bigslam-widget">
-                            <h3 class="bigslam-widget-title">Resources</h3>
+                            <h3 class="bigslam-widget-title">Liens</h3>
                             <div class="menu-resources-container">
                                 <ul id="menu-resources" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
-                                    <li class="menu-item"><a href="#">Marketplace</a></li>
-                                    <li class="menu-item"><a href="#">League Table</a></li>
+                                    <li class="menu-item"><a href="#">Instagram</a></li>
                                 </ul>
                             </div>
                         </div>
