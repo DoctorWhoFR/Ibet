@@ -1,6 +1,7 @@
 <?php
 
 use App\Articles;
+use App\Coupons;
 use App\Pronostiques;
 use App\User;
 use Illuminate\Database\Seeder;
@@ -17,5 +18,6 @@ class DatabaseSeeder extends Seeder
         factory(Pronostiques::class, 30)->create();
         factory(Articles::class, 5)->create();
         factory(User::class, 1)->create();
+        factory(Coupons::class, 1)->create();
     }
 }
