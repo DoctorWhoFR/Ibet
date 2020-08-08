@@ -351,7 +351,7 @@ color:white;">
                                                                                     <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('pronostiques')}}">
                                                                                         <span class="gdlr-core-content">Confiance: {{$foot->confiance}}%</span></a>
                                                                                 @else
-                                                                                    <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" >
+                                                                                    <a class="gdlr-core-ilightbox gdlr-core-js gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border" href="{{route('shop')}}">
                                                                                     <span class="gdlr-core-content">Confiance: {{$foot->confiance}}%</span></a>
                                                                                 @endif <span class="gdlr-core-portfolio-badge">BOUTIQUE !</span></a></span><a class="bigslam-sp-event-link" href="#">Preview<i class="fa fa-long-arrow-right"></i></a></div>
                                                                 </div>
