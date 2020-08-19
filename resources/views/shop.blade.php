@@ -313,7 +313,7 @@
                                             <!--
 
                 -->
-                                            <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibeet
+                                            <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibet
                                             </rs-layer>
                                             <!--
 
@@ -357,7 +357,7 @@
                                             <!--
 
                 -->
-                                            <rs-layer id="slider-1-slide-20-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibeet
+                                            <rs-layer id="slider-1-slide-20-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibet
                                             </rs-layer>
                                             <!--
 
@@ -401,7 +401,7 @@
                                             <!--
 
                 -->
-                                            <rs-layer id="slider-1-slide-21-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibeet
+                                            <rs-layer id="slider-1-slide-21-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;" data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;" data-frame_999="o:0;tp:600;st:w;sR:8490;" style="z-index:10;font-family:jost*;text-transform:uppercase;">Ibet
                                             </rs-layer>
                                             <!--
 
